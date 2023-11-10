@@ -1,0 +1,9 @@
+body {
+    font-family: "Fira Code";
+    background-color: slategray !important;
+    color: skyblue !important;
+}
+
+body h1 {
+    text-align: center;
+}
